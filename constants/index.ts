@@ -1,10 +1,10 @@
 // NAVIGATION
 export const NAV_LINKS = [
-  { href: "/", key: "home", label: "Home" },
-  { href: "/", key: "how_hilink_work", label: "How Hilink Work?" },
-  { href: "/", key: "services", label: "Services" },
-  { href: "/", key: "pricing ", label: "Pricing " },
-  { href: "/", key: "contact_us", label: "Contact Us" },
+  { href: "/", key: "inicio", label: "Inicio" },
+  { href: "/", key: "cómo_funciona_hilink", label: "¿Cómo Funciona Hilink?" },
+  { href: "/", key: "servicios", label: "Servicios" },
+  { href: "/", key: "precios", label: "Precios" },
+  { href: "/", key: "contáctanos", label: "Contáctanos" },
 ];
 
 // CAMP SECTION
@@ -50,27 +50,27 @@ export const FEATURES = [
 // FOOTER SECTION
 export const FOOTER_LINKS = [
   {
-    title: "Learn More",
+    title: "Conoce Más",
     links: [
-      "About Hilink",
-      "Press Releases",
-      "Environment",
-      "Jobs",
-      "Privacy Policy",
-      "Contact Us",
+      "Acerca de Hilink",
+      "Comunicados de Prensa",
+      "Medio Ambiente",
+      "Empleos",
+      "Política de Privacidad",
+      "Contáctanos",
     ],
   },
   {
-    title: "Our Community",
-    links: ["Climbing xixixi", "Hiking hilink", "Hilink kinthill"],
+    title: "Nuestra Comunidad",
+    links: ["Escalada xixixi", "Senderismo Hilink", "Kinthill Hilink"],
   },
 ];
 
 export const FOOTER_CONTACT_INFO = {
-  title: "Contact Us",
+  title: "Contáctanos",
   links: [
-    { label: "Admin Officer", value: "123-456-7890" },
-    { label: "Email Officer", value: "hilink@akinthil.com" },
+    { label: "John Lodoño", value: "30458959.." },
+    { label: "Oficinas Email", value: "johnjulin2@gmail.com" },
   ],
 };
 
